@@ -5,5 +5,5 @@
 using namespace std;
 int main(){
     setlocale(0, "");
-    cout << "Первая ветка или не я не знаю." << endl;
+    cout << "Вторая ветка или не я не знаю." << endl;
 }
